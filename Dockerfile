@@ -1,5 +1,4 @@
 FROM debian:jessie
-MAINTAINER Ben Bailey <bennettbailey@gmail.com>
 
 # Should change this to ARG instruction when docker version is updated
 ENV TELEGRAF_VERSION=0.2.4
